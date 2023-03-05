@@ -11,7 +11,7 @@ This is a game played by two people. Each player fullfills a specific roles:
 - The **Human**: Travel through the world in your weak body. Falls and enemies will try to bring you to the other side, your friend side, Death. You are able to interact with the living world and talk with living beings.
 - The **Ghost**: You are freed of your weak body, but not safe either. While you are able to fly for a short duration, void enemies are a nightmare. Be careful, you can only interact with the dead world. You're also able to go through transparent objects.
 
-> Our strongest ability can easily becomes our greatest weakness.
+> Our strongest ability can easily become our greatest weakness.
 
 ## How to play?
 
