@@ -42,9 +42,20 @@ The game is currently in development and many features are unavailable.
 
 ### Game Preview
 
+#### WorldMap
 ![image](https://user-images.githubusercontent.com/84530101/222985687-abd4e54e-160d-41e9-ba0d-65d6a30f5a7b.png)
+
+#### Temple of Light / Church
 ![image](https://user-images.githubusercontent.com/84530101/222985700-194fcdc0-3cdb-4d15-bdae-bc09e193fda8.png)
 ![image](https://user-images.githubusercontent.com/84530101/222985704-fd86c7ec-bf6d-4388-801e-9fbc90bdc787.png)
+
+#### Village
+
 ![image](https://user-images.githubusercontent.com/84530101/222985709-d1220ee2-792b-4cef-9562-2253c6eefba3.png)
+
+#### Gameplay
+
 ![image](https://user-images.githubusercontent.com/84530101/222986228-c222c125-cdb4-40a1-979b-ca2141facf17.png)
 ![image](https://user-images.githubusercontent.com/84530101/222986339-6fad6ae6-740c-4c4d-94d8-9b9d6772aa61.png)
+![image](https://user-images.githubusercontent.com/84530101/222987809-1a3b784e-1d9c-473f-a250-63588fc624de.png)
+
